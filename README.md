@@ -1,5 +1,5 @@
 # she-codes-crowdfunding-api-project-Isabellam123
-she-codes-crowdfunding-api-project-Isabellam123 created by GitHub Classroom
+
 
 About this project:
 This is a very basic structure for a crowdfunding website built using DRF and the intention is to build upon this using React. 
